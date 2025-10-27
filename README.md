@@ -9,12 +9,10 @@ Entrenamiento Hands-on en la plataforma de Databricks con foco en las funcionali
 
 | # | Temas | Duración |
 | -- | -- | -- |
-| 01 | Visión general del Workshop          | 10 min |
-| 02 | LAB 01 - Unity Catalog               | 10 min |
-| 03 | LAB 02 - Mlflow                      | 30 min |
-| 04 | LAB 03 - AutoML                      | 10 min |
-| 05 | LAB 04 - AI functions                | 10 min |
-| 06 | LAB 05 - Agent Bricks                | 10 min |
+| 01 | LAB 01 - Lab presentation & Unity Catalog          | 10 min |
+| 02 | LAB 02 - ML in Databricks               | 30 min |
+| 03 | LAB 03 - AI functions                      | 10 min |
+| 04 | LAB 04 - Agent Bricks                      | 10 min |
 
 
 </br>
