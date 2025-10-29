@@ -7,12 +7,12 @@ Entrenamiento Hands-on en la plataforma de Databricks con foco en las funcionali
 </br>
 ## Material del Curso
 
-| # | Temas | Duración |
-| -- | -- | -- |
-| 01 | LAB 01 - Lab presentation & Unity Catalog          | 10 min |
-| 02 | LAB 02 - ML in Databricks               | 30 min |
-| 03 | LAB 03 - AI functions                      | 10 min |
-| 04 | LAB 04 - Agent Bricks                      | 10 min |
+| # | Temas | 
+| -- | -- | 
+| 01 | LAB 01 - Presentación del laboratorio y Unity Catalog          | 
+| 02 | LAB 02 - Machine learning en Databricks               | 
+| 03 | LAB 03 - AI functions                      | 
+| 04 | LAB 04 - Agent Bricks                      | 
 
 
 </br>
